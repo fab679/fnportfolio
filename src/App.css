@@ -1,0 +1,9 @@
+#grad {
+	background-image: url("./assets/images/portfolio-6.jpg");
+	background-repeat: cover;
+	opacity: 0.9;
+}
+h1,h2,h3,h3,h5,p,li{
+	font-weight: bold;
+	color: black;
+}
